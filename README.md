@@ -18,3 +18,7 @@
 ### 效果
 ![预览小程序二维码](doc/img/pic1.jpg)
 ![预览小程序二维码](doc/img/qr.jpg)
+
+from http://wxopen.club/topic/596d818f070f2f47043c4365
+
+more app：http://wxopen.club/?tab=app
